@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">Lesson13_1</string>
     <string name="hello_world">Hello World</string>
     <string name="trang_chu">Home Page</string>
     <string name="key_door">The door</string>

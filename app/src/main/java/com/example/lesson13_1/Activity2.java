@@ -26,6 +26,8 @@ public class Activity2 extends AppCompatActivity {
 
         setContentView(R.layout.activity_2);
 
+        String sTheDoor = getString(R.string.key_door);
+
 //        SharedPreferences pref = PreferenceManager.getDefaultSharedPreferences(getApplicationContext());
 //
 //        lastLanguageCode = pref.getString(KEY_PREF_LANGUAGE, LANGUAGE_CODE_ENG);
